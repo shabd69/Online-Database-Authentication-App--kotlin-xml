@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FINAL app1</string>
+    <string name="not_having_an_account_signup">Not having an account? <b>Signup</b></string>
+    <string name="already_having_an_account_login_instead">Already having an account ? <b>Login Instead</b></string>
+</resources>
